@@ -1,5 +1,5 @@
 # vasil-tests
-This repository contains four explainers on the topics of the new CIP's that will function after the Vasil hard fork. As an overview, the introduced CIP's are,
+This repository contains explainers on the topics of the new CIPs that were introduced as part of the Vasil hard fork:
 | CIP | Name  | Explainer
 | :------------ |:---------------: | :-----: |
 | CIP 31 | [Reference inputs](https://cips.cardano.org/cips/cip31/) | [tutorial](https://github.com/input-output-hk/Vasil-testnet/blob/main/reference-inputs-cip-31.md)
